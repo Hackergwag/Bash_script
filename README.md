@@ -1,6 +1,6 @@
 <h1>Bash Script</h1>
 
- ### [Video Tutorials Explaining Nmap And Zenmap In Details](https://www.mediafire.com/file/f0tvhwg2jz8x4en/EZXM2293.mp4/file)
+ ### [Video Tutorials Explaining Bash Script In Details](https://www.mediafire.com/file/f0tvhwg2jz8x4en/EZXM2293.mp4/file)
 
 <h2>Description</h2>
 A Bash script is a text file containing a series of commands that are executed by the Bash shell, a common command-line interpreter on Unix-like operating systems. Bash scripts automate repetitive tasks, making them efficient tools for system administrators and developers.
